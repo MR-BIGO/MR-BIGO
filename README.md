@@ -7,5 +7,6 @@
 ### Contact info
 
 - email - okr.dato@gmail.com
+- facebook - https://www.facebook.com/dato.okruashvili.90
 
 
