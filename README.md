@@ -5,7 +5,7 @@
 
 ## My GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xsidelight&count_private=true&show_icons=true&theme=gruvbox&hide=issues,contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MR-BIGO&count_private=true&show_icons=true&theme=gruvbox&hide=issues,contribs)
 
 
 ### Contact info
